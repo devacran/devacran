@@ -1,6 +1,6 @@
 ### Hello, I'm Miguel Angel Engineer & Frontend Developer👋
 Member of Platzi Master💚 and Ilab Rookie. 
-I love programming and play guitar at same time </br>
+I love programming and playing guitar at same time </br>
 Learning 24/7 🤓
 
 ### My Stuff
