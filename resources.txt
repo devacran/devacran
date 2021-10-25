@@ -1,0 +1,4 @@
+- Badges
+    https://github.com/Ileriayo/markdown-badges
+- Icons
+    https://github.com/edent/SuperTinyIcons
