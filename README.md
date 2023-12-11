@@ -1,6 +1,6 @@
 ## Heeey! I'm devacran 🦂 🧑🏻‍💻
 
-**Frontend Developer** @ Arkon Data </br>
+**Frontend Developer** @ Kolors </br>
 Proudly Member of Platzi Master💚
 
 ### My Stuff
